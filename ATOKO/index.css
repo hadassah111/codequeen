@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+    background: black;
+
+}
+
+.forest{
+    color: black;
+    background-color: yellow;
+}
+.list{
+    background-color: aquamarine;
+    color: blue;
+}
+.hobbies{
+    color: white;
+
+}
+.gal{
+    color: blue;
+    background-color: white;
+}
+.hb{
+    color: black;
+    background-color: aquamarine;
+}
+img{
+    border: orange 2px solid;
+    border-left: greenyellow 3px dotted;
+    padding-top: 10px;
+    padding: 11px;
+    margin: 100px;
+    border-radius: 700px;
+}
+
