@@ -1,0 +1,34 @@
+form{
+    text-align: center;
+    width: 400px;
+    height: 600px;
+    border: 5px yellow solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+label{
+    color: yellow;
+    margin: 10px;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: x-large;
+}
+input{
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+input[type="submit"] {
+color: white;
+cursor: pointer;
+background-color: purple;
+}
+input[type="submit"]:hover {
+    background-color: blueviolet;
+}
+h3{
+    color: white;
+    display: flex;
+}
